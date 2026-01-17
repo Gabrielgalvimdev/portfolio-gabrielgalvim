@@ -2,21 +2,21 @@
   "placeholderImages": [
     {
       "id": "proj1",
-      "description": "A vibrant, abstract representation of online shopping and e-commerce.",
+      "description": "Uma representação vibrante e abstrata de compras online e e-commerce.",
       "imageUrl": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlY29tbWVyY2V8ZW58MHx8fHwxNzI0MDk4MTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "ecommerce shopping"
+      "imageHint": "compras e-commerce"
     },
     {
       "id": "proj2",
-      "description": "Illustration for social media scheduler",
+      "description": "Ilustração para agendador de mídias sociais",
       "imageUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3MjE4MzQ5ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "social media"
+      "imageHint": "mídias sociais"
     },
     {
       "id": "proj3",
-      "description": "Digital security concept with interconnected nodes, representing authentication in a microservices architecture.",
+      "description": "Conceito de segurança digital com nós interconectados, representando autenticação em uma arquitetura de microsserviços.",
       "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtaWNyb3NlcnZpY2VzfGVufDB8fHx8MTcyNDA5ODIwMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "microservices architecture"
+      "imageHint": "arquitetura de microsserviços"
     }
   ]
 }
